@@ -6,6 +6,8 @@ Game that loads random colors and displays the RGB values to help the user guess
 
 Built using only the basics: HTML, CSS, and vanilla JS. Features a clean and responsive UI.
 
+![Color Game Demo](https://i.imgur.com/h7HbTtJ.gif)
+
 ### Getting Started
 * Select easy or hard
 * Click on the colored square to guess that color
